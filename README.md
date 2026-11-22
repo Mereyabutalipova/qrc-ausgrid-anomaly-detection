@@ -87,3 +87,20 @@ The experiment covers one customer and a limited observation period. The results
 Fujii, K., & Nakajima, K. (2017). *Harnessing disordered-ensemble quantum dynamics for machine learning*. Physical Review Applied, 8(2), 024030.
 
 Ausgrid Solar Home Electricity Data.
+
+
+
+## Experimental Visualizations
+
+### QRC Electricity Consumption Forecast
+
+![QRC Forecast](forecast.png)
+
+The figure compares observed electricity consumption with predictions produced by the Hybrid QRC model.
+
+### Residual-Based Anomaly Detection
+
+![Anomaly Detection](anomalies.png)
+
+The figure shows absolute forecasting residuals, the validation-based detection threshold, and flagged observations.
+  
